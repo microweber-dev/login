@@ -44,7 +44,9 @@ return [
 		'Illuminate\Translation\TranslationServiceProvider',
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
-		'Laravel\Socialite\SocialiteServiceProvider'
+		'Laravel\Socialite\SocialiteServiceProvider',
+		'LucaDegasperi\OAuth2Server\Storage\FluentStorageServiceProvider',
+		'LucaDegasperi\OAuth2Server\OAuth2ServerServiceProvider'
 
 	],
 
