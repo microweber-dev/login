@@ -1,2 +1,2 @@
-## Microstore
-A micro-sized source code store
+## Microweber Login
+OAuth2 authentication for Microweber users.
